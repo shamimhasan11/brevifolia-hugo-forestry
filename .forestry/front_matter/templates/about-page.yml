@@ -4,10 +4,12 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Digital Enclave
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: MM/DD/YYYY
 - type: text
   name: type
   label: type
