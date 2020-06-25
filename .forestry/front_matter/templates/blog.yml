@@ -30,3 +30,4 @@ fields:
 - type: file
   name: hero
   label: Hero Image
+  default: "/images/vincent-burkhead-LhlxYMfnTF0-unsplash.jpg"
